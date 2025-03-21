@@ -9,12 +9,14 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Importante per evitare problemi con il push
 
-      - name: Update GitHub Stats
+      - name: Update README
         run: |
-          curl -o README.md "https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&include_orgs=true&layout=compact&count_private=true&token=${{ secrets.GH_PAT }}"
+          sed -i 's|https://github-readme-stats.vercel.app/api/top-langs[^)]*|https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&include_orgs=true&layout=compact&count_private=true&theme=radical|' README.md
 
       - name: Commit and push changes
         run: |
