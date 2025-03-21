@@ -17,7 +17,7 @@
 
 
 ### 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&layout=compact&langs_count=10&cache_seconds=86400&theme=radical)
 
 ### ⚡ GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicmoro31&show_icons=true&theme=radical)  
