@@ -16,8 +16,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i 's|!\[Top Langs\](https://github-readme-stats.vercel.app/api/top-langs[^)]*)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&include_orgs=true&layout=compact&count_private=true&theme=radical&token=${{ secrets.GH_PAT }})|' README.md
-
+             echo '![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&include_orgs=true&layout=compact&count_private=true&theme=radical&token=${{ secrets.GH_PAT }})' > README.md
 
       - name: Commit and push changes
         run: |
