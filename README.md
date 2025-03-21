@@ -17,10 +17,10 @@
 
 
 ### 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUO-USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&layout=compact&theme=radical)
 
 ### ⚡ GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TUO-USERNAME&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicmoro31&show_icons=true&theme=radical)  
 <!--
 **nicmoro31/nicmoro31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
