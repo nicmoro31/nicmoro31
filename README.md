@@ -17,7 +17,7 @@
 
 
 ### 📊 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&layout=compact&langs_count=10&theme=radical&include_orgs=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31https://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&layout=compact&langs_count=10&theme=radical&include_orgs=true&count_private=trueinclude_orgs=truehttps://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&layout=compact&langs_count=10&theme=radical&include_orgs=true&count_private=truelayout=compacthttps://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&layout=compact&langs_count=10&theme=radical&include_orgs=true&count_private=truecount_private=truehttps://github-readme-stats.vercel.app/api/top-langs/?username=nicmoro31&layout=compact&langs_count=10&theme=radical&include_orgs=true&count_private=truetheme=radical)
 
 ### ⚡ GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicmoro31&show_icons=true&theme=radical)  
