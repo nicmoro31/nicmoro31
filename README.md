@@ -1,6 +1,6 @@
 ## Hi there! I'm Nicholas 👋
 
-- Computer Science (L-31) @ University of Padua
+- Computer Science (L-31) Student @ University of Padua
 
 ### 🛠 My Skills  
 
